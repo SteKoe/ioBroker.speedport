@@ -68,8 +68,7 @@
       {
         "js-controller": ">=2.0.0"
       }
-    ],
-    "installedFrom": "file:/speedport"
+    ]
   },
   "native": {
     "pollInterval": 1800,
