@@ -1,0 +1,346 @@
+[
+  {
+    "vartype": "value",
+    "varid": "provis_inet",
+    "varvalue": "x03"
+  },
+  {
+    "vartype": "value",
+    "varid": "provis_voip",
+    "varvalue": "xx4"
+  },
+  {
+    "vartype": "value",
+    "varid": "ppp_bnguser",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "bngscrat",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "router_state",
+    "varvalue": "OK"
+  },
+  {
+    "vartype": "value",
+    "varid": "support_https",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "device_name",
+    "varvalue": "Speedport Smart"
+  },
+  {
+    "vartype": "page_title",
+    "varid": "title",
+    "varvalue": "Speedport Smart Konfigurationsprogramm"
+  },
+  {
+    "vartype": "status",
+    "varid": "expert_mode",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "status",
+    "varid": "onlinestatus",
+    "varvalue": "online"
+  },
+  {
+    "vartype": "status",
+    "varid": "loginstate",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "option",
+    "varid": "isp_selection",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "inet_isp",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "ap_mode",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "option",
+    "varid": "ap_mode",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "status",
+    "varid": "apmode_active",
+    "varvalue": "false"
+  },
+  {
+    "vartype": "value",
+    "varid": "datetime",
+    "varvalue": "23.02.2021 15:44:59"
+  },
+  {
+    "vartype": "value",
+    "varid": "dsl_link_status",
+    "varvalue": "online"
+  },
+  {
+    "vartype": "value",
+    "varid": "dsl_errnr",
+    "varvalue": ""
+  },
+  {
+    "vartype": "value",
+    "varid": "status",
+    "varvalue": "online"
+  },
+  {
+    "vartype": "value",
+    "varid": "fail_reason",
+    "varvalue": ""
+  },
+  {
+    "vartype": "value",
+    "varid": "inet_errnr",
+    "varvalue": ""
+  },
+  {
+    "vartype": "value",
+    "varid": "connect",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "dsl_downstream",
+    "varvalue": "108607"
+  },
+  {
+    "vartype": "value",
+    "varid": "dsl_upstream",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "template",
+    "varid": "addphonenumber",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "1"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number",
+        "varvalue": "*744"
+      },
+      {
+        "vartype": "value",
+        "varid": "failreason",
+        "varvalue": "0"
+      },
+      {
+        "vartype": "value",
+        "varid": "status",
+        "varvalue": "ok"
+      },
+      {
+        "vartype": "value",
+        "varid": "voip_errnr",
+        "varvalue": ""
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addphonenumber",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "2"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number",
+        "varvalue": "*745"
+      },
+      {
+        "vartype": "value",
+        "varid": "failreason",
+        "varvalue": "0"
+      },
+      {
+        "vartype": "value",
+        "varid": "status",
+        "varvalue": "ok"
+      },
+      {
+        "vartype": "value",
+        "varid": "voip_errnr",
+        "varvalue": ""
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "addphonenumber",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "3"
+      },
+      {
+        "vartype": "value",
+        "varid": "phone_number",
+        "varvalue": "*746"
+      },
+      {
+        "vartype": "value",
+        "varid": "failreason",
+        "varvalue": "0"
+      },
+      {
+        "vartype": "value",
+        "varid": "status",
+        "varvalue": "ok"
+      },
+      {
+        "vartype": "value",
+        "varid": "voip_errnr",
+        "varvalue": ""
+      }
+    ]
+  },
+  {
+    "vartype": "template",
+    "varid": "adddect",
+    "varvalue": [
+      {
+        "vartype": "value",
+        "varid": "id",
+        "varvalue": "1"
+      }
+    ]
+  },
+  {
+    "vartype": "option",
+    "varid": "br_active",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "easy_support_deactive",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "use_dect",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_ssid",
+    "varvalue": "WLAN-WX79KZ"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_ssid",
+    "varvalue": "WLAN-WX79KZ"
+  },
+  {
+    "vartype": "value",
+    "varid": "use_wlan",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "use_wlan_5ghz",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_devices",
+    "varvalue": "5"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_5ghz_devices",
+    "varvalue": "4"
+  },
+  {
+    "vartype": "value",
+    "varid": "lan1_device",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "lan2_device",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "lan3_device",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "lan4_device",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "use_wps",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "hsfon_status",
+    "varvalue": "2"
+  },
+  {
+    "vartype": "value",
+    "varid": "firmware_version",
+    "varvalue": "050129.3.5.006.0"
+  },
+  {
+    "vartype": "value",
+    "varid": "serial_number",
+    "varvalue": "DJ09003931"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_guest_active",
+    "varvalue": "1"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_guest_count",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "value",
+    "varid": "wlan_guest_ssid",
+    "varvalue": "WLAN-WX79KZ-guest"
+  },
+  {
+    "vartype": "value",
+    "varid": "internet_timerule_active",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "option",
+    "varid": "use_smarthome",
+    "varvalue": "0"
+  },
+  {
+    "vartype": "option",
+    "varid": "hdvoice",
+    "varvalue": "1"
+  }
+]

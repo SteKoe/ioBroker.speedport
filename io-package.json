@@ -1,0 +1,80 @@
+{
+  "common": {
+    "name": "speedport",
+    "version": "0.0.1",
+    "news": {
+      "0.0.1": {
+        "en": "initial release",
+        "de": "Erstveröffentlichung",
+        "ru": "Начальная версия",
+        "pt": "lançamento inicial",
+        "nl": "Eerste uitgave",
+        "fr": "Première version",
+        "it": "Versione iniziale",
+        "es": "Versión inicial",
+        "pl": "Pierwsze wydanie",
+        "zh-cn": "首次出版"
+      }
+    },
+    "title": "Speedport",
+    "titleLang": {
+      "en": "Speedport",
+      "de": "Speedport",
+      "ru": "Speedport",
+      "pt": "Speedport",
+      "nl": "Speedport",
+      "fr": "Speedport",
+      "it": "Speedport",
+      "es": "Speedport",
+      "pl": "Speedport",
+      "zh-cn": "Speedport"
+    },
+    "desc": {
+      "en": "speedport",
+      "de": "speedport",
+      "ru": "speedport",
+      "pt": "speedport",
+      "nl": "speedport",
+      "fr": "speedport",
+      "it": "speedport",
+      "es": "speedport",
+      "pl": "speedport",
+      "zh-cn": "speedport"
+    },
+    "authors": [
+      "SteKoe <github@stekoe.de>"
+    ],
+    "keywords": [
+      "ioBroker",
+      "template",
+      "Smart Home",
+      "home automation"
+    ],
+    "license": "Apache-2.0",
+    "platform": "Javascript/Node.js",
+    "main": "main.js",
+    "icon": "speedport.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/SteKoe/ioBroker.speedport/master/admin/speedport.png",
+    "readme": "https://github.com/SteKoe/ioBroker.speedport/blob/master/README.md",
+    "loglevel": "info",
+    "mode": "daemon",
+    "type": "infrastructure",
+    "compact": true,
+    "connectionType": "local",
+    "dataSource": "poll",
+    "materialize": true,
+    "dependencies": [
+      {
+        "js-controller": ">=2.0.0"
+      }
+    ],
+    "installedFrom": "file:/speedport"
+  },
+  "native": {
+    "pollInterval": 1800,
+    "routerIp": "192.168.2.1"
+  },
+  "objects": [],
+  "instanceObjects": []
+}

@@ -1,0 +1,16 @@
+services:
+  iobroker:
+    restart: always
+    image: buanet/iobroker:latest
+    container_name: iobroker
+    hostname: iobroker
+    ports:
+      - "8081:8081"
+      - "9229:9229"
+    volumes:
+      - iobrokerdata:/opt/iobroker
+      - ./:/opt/iobroker/node_modules/iobroker.speedport/:ro
+
+volumes:
+  iobrokerdata:
+    name: docker-test_iobrokerdata
